@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 accounts:
-  message: "Welcome to Banking accounts application for Quality Analysis (QA)"
+  message: "Welcome to Banking accounts application for Quality Analysis (QA) !"
   contactDetails:
     name: "Sunita Reddy(QA Lead)"
     email: "{cipher}a259b004313f3efed28bfbd7dee27ad7412d81d06f5e42cd4150e0ef4d348ae34b627797a12491390688be5b2ef0edc1"
