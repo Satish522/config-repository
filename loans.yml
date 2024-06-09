@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 loans:
-  message: "Welcome to Banking Loans application"
+  message: "Welcome to Banking Loans application docker"
   contactDetails:
     name: "Satish Subudhi"
     email: "satishsubudhi522@gmail.com"
